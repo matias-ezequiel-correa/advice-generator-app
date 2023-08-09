@@ -1,6 +1,6 @@
 # PROJETO sobre GERADOR DE CONSELHOS 🚀
 
-* Um desafio proposto no curso DevQuest sobre um <a href="https://matias-ezequiel-correa.github.io/formulario-com-validacao-quest-devquest/" target="_blank">Gerador de Conselhos.</a>
+* Um desafio proposto no curso DevQuest sobre um <a href="https://matias-ezequiel-correa.github.io/app-gerador-conselhos/" target="_blank">Gerador de Conselhos.</a>
 
 * Para aprimorar e consolidar os conhecimentos e habilidades adquiridos nos módulos de HTML , CSS e JAVASCRIPT do curso. 
 
@@ -9,10 +9,10 @@
 
 ## Design:
 * Desktop:
-[<p align="center"><img height="400em" src="./design/desktop-design.jpg" alt="Projeto Gerador de Conselhos - Versão Desktop">](https://matias-ezequiel-correa.github.io/formulario-com-validacao-quest-devquest/)<p>
+[<p align="center"><img height="400em" src="./design/desktop-design.jpg" alt="Projeto Gerador de Conselhos - Versão Desktop">](https://matias-ezequiel-correa.github.io/app-gerador-conselhos/)<p>
 
 * Mobile:
-[<p align="center"><img height="400em" src="./design/mobile-design.jpg" alt="Projeto Gerador de Conselhos - Versão Mobile">](https://matias-ezequiel-correa.github.io/formulario-com-validacao-quest-devquest/)<p>
+[<p align="center"><img height="400em" src="./design/mobile-design.jpg" alt="Projeto Gerador de Conselhos - Versão Mobile">](https://matias-ezequiel-correa.github.io/app-gerador-conselhos/)<p>
 
 
 ## Tecnologias utilizadas:
