@@ -9,10 +9,10 @@
 
 ## Design:
 * Desktop:
-[<p align="center"><img height="400em" src="./design/desktop-design.jpg" alt="Projeto Gerador de Conselhos - Versão Desktop">](https://matias-ezequiel-correa.github.io/app-gerador-conselhos/)<p>
+[<p align="center"><img height="400em" src="./design/desktop-design.jpg" alt=" Projeto Gerador de Conselhos - Versão Desktop">](https://matias-ezequiel-correa.github.io/app-gerador-conselhos/)<p>
 
 * Mobile:
-[<p align="center"><img height="400em" src="./design/mobile-design.jpg" alt="Projeto Gerador de Conselhos - Versão Mobile">](https://matias-ezequiel-correa.github.io/app-gerador-conselhos/)<p>
+[<p align="center"><img height="400em" src="./design/mobile-design.jpg" alt=" Projeto Gerador de Conselhos - Versão Mobile">](https://matias-ezequiel-correa.github.io/app-gerador-conselhos/)<p>
 
 
 ## Tecnologias utilizadas:
